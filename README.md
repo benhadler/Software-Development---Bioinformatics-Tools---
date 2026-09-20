@@ -2,7 +2,7 @@
 
 Whenever I mention completing a bachelors degree in bioinformatics, many people I speak with, including those with technical backgrounds, tell me have heard of the field but are less familiar with what the it covers or what a bachelor's degree in it involves. I hope this repository can serve as a helpful tool for understanding the discipline, gauging the rigor of the degree and potentially deciding whether the field is of interest.
 
-Of all the courses I took, I believe the one documented here offers one of the clearest representaitons of my program and the skills I developed during my time at UC San Diego. It combined concepts from probability and statistics, computer science and natural science and applied them to a wide range of relevant topics within bioinformatics.
+Of all the courses I took, I believe the one documented here offers one of the clearest representations of what is covered in the program and the skills I developed during my time at UC San Diego. It combined concepts from probability and statistics, computer science and natural sciences and applied them to a wide range of relevant topics within bioinformatics.
 
 This repository contains implementations of biological data analysis ranging from processing sequence files to building search algorithms and statistical models. The work includes implementing algorithms, analyzing their results and considering their speed and memory use. Each assignment folder contains the course assignment sheet, my solutions and relevant data files, along with a README explaining the work.
 
